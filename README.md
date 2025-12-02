@@ -36,6 +36,9 @@ Currently, I am an **AI Engineer at Wappnet Systems**, where I was awarded **Emp
 * **[rustlette](https://github.com/dhruvbhavsar0612/rustlette):** A high-performance Rust implementation of the Starlette ASGI framework. Focused on zero-cost abstractions for async web services.
 * **[fastapi-smith](https://github.com/dhruvbhavsar0612/fastsql-project-setup):** An opinionated project generator (CLI) for production-ready FastAPI architectures. Available on PyPI.
 
+### 🧠 Computer Vision & AI
+* **[calorie-tracker-ai](https://github.com/dhruvbhavsar0612/calorie-tracker-ai):** "Snap & Track" nutritional analysis engine. Combines Computer Vision for object detection with Multimodal LLMs to estimate caloric content from single images in real-time.
+
 ### 🌐 Live AI Platforms
 * **[teleai.tech](https://teleai.tech):** Enterprise AI Telephony platform.
 * **[voice.teleai.tech](https://voice.teleai.tech):** Real-time **Voice-to-Text** conversational interface. Engineered on the HCI principle that humans speak faster than they type, but read faster than they listen. Features instant low-latency generation for rapid information retrieval.
@@ -55,6 +58,7 @@ Currently, I am an **AI Engineer at Wappnet Systems**, where I was awarded **Emp
 * **The Challenge:** Forecasting solar events using 200GB+ of multi-sensor satellite raster data.
 * **The Innovation:** Developed a hybrid **LSTM + CNN** architecture to capture both spatial features (CNN) and temporal dependencies (LSTM).
 * **Result:** Outperformed baseline ARIMA/SARIMA models by **40%** during high-fluctuation weather events.
+* **Resources:** [📄 Read Research Report](https://docs.google.com/document/d/1b1HilH_0Ng_UYp0jWPxDoLoTEweULtL-/edit?usp=sharing&ouid=116380645606938325011&rtpof=true&sd=true)
 * **Stack:** PyTorch, OpenCV, SciPy, CUDA.
 
 ### 3. Agentic Orchestration Platform (Osora.ai)
