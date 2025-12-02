@@ -70,15 +70,15 @@ Currently, I am an **AI Engineer at Wappnet Systems**, where I was awarded **Emp
 ### 🏆 Honors
 * **Employee of the Year (2024)** | *Wappnet Systems*
     * Awarded for rapid delivery of high-impact AI architectures across Healthcare & Logistics sectors.
-* **Smart Kart Innovation Project** | [cite_start]*_VOIS Innovation Marathon* [cite: 132, 135]
+* **Smart Kart Innovation Project** | *_VOIS Innovation Marathon* | [View Certificate](https://drive.google.com/file/d/1S-e3hp2LSsuQLwl2r3kaDfJ0Qkv4H7Lo/view?usp=sharing)
     * Developed an IoT-enabled Smart Kart prototype during the Vodafone Idea Foundation internship.
 
 ### 🎓 Verified Certificates
-* **Supervised Machine Learning: Regression and Classification** - *DeepLearning.AI & Stanford University* | [cite_start][View Certificate](https://coursera.org/verify/52U7CECRWXQF) [cite: 17, 26]
+* **Supervised Machine Learning: Regression and Classification** - *DeepLearning.AI & Stanford University* | [View Certificate](https://coursera.org/verify/52U7CECRWXQF)
     * Instructor: Andrew Ng. Focus on gradient descent and logistic regression architectures.
-* **Python for Data Science and Machine Learning Bootcamp** - *Udemy* | [cite_start][View Certificate](https://ude.my/UC-c99fdf81-e38c-417a-92fa-4eb95f696c7b) [cite: 5, 3]
+* **Python for Data Science and Machine Learning Bootcamp** - *Udemy* | [View Certificate](https://ude.my/UC-c99fdf81-e38c-417a-92fa-4eb95f696c7b)
     * Comprehensive curriculum on Scikit-Learn, Pandas, and Neural Networks.
-* [cite_start]**GDSC Core Team Member (2021-2022)** - *Google Developer Student Clubs* [cite: 31]
+* **GDSC Core Team Member (2021-2022)** - *Google Developer Student Clubs* | [View Certificate](https://drive.google.com/file/d/1U6FYv8IGA4nY-ipTtRjcNnhHvlQHHh_N/view?usp=sharing)
     * Recognized for technical leadership and community building at New L.J. Institute of Engineering and Technology.
 
 ---
