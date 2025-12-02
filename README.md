@@ -38,7 +38,7 @@ Currently, I am an **AI Engineer at Wappnet Systems**, where I was awarded **Emp
 
 ### 🌐 Live AI Platforms
 * **[teleai.tech](https://teleai.tech):** Enterprise AI Telephony platform.
-* **[voice.teleai.tech](https://voice.teleai.tech):** Real-time conversational voice agent demo showcasing low-latency voice-to-voice AI interaction.
+* **[voice.teleai.tech](https://voice.teleai.tech):** Real-time **Voice-to-Text** conversational interface. Engineered on the HCI principle that humans speak faster than they type, but read faster than they listen. Features instant low-latency generation for rapid information retrieval.
 
 ---
 
