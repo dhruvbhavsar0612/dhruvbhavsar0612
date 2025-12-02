@@ -23,10 +23,22 @@ Currently, I am an **AI Engineer at Wappnet Systems**, where I was awarded **Emp
 
 | Domain | Stack |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) |
 | **AI & ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=chainlink&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) |
 | **Backend & Systems** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white) |
 | **Data Engineering** | ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark&logoColor=white) ![Polars](https://img.shields.io/badge/-Polars-CD792C?logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
+
+---
+
+## 📦 Open Source & Live Deployments
+
+### 🦀 Rust & Tooling
+* **[rustlette](https://github.com/dhruvbhavsar0612/rustlette):** A high-performance Rust implementation of the Starlette ASGI framework. Focused on zero-cost abstractions for async web services.
+* **[fastapi-smith](https://github.com/dhruvbhavsar0612/fastsql-project-setup):** An opinionated project generator (CLI) for production-ready FastAPI architectures. Available on PyPI.
+
+### 🌐 Live AI Platforms
+* **[teleai.tech](https://teleai.tech):** Enterprise AI Telephony platform.
+* **[voice.teleai.tech](https://voice.teleai.tech):** Real-time conversational voice agent demo showcasing low-latency voice-to-voice AI interaction.
 
 ---
 
@@ -58,21 +70,16 @@ Currently, I am an **AI Engineer at Wappnet Systems**, where I was awarded **Emp
 ### 🏆 Honors
 * **Employee of the Year (2024)** | *Wappnet Systems*
     * Awarded for rapid delivery of high-impact AI architectures across Healthcare & Logistics sectors.
+* **Smart Kart Innovation Project** | [cite_start]*_VOIS Innovation Marathon* [cite: 132, 135]
+    * Developed an IoT-enabled Smart Kart prototype during the Vodafone Idea Foundation internship.
 
-### 🎓 Certificates
-* **[Certificate Name, e.g., Deep Learning Specialization]** - *[Issuer, e.g., Coursera/Andrew Ng]* | [Link](#)
-* **[Certificate Name, e.g., AWS Certified Solutions Architect]** - *[AWS]* | [Link](#)
-* **[Certificate Name, e.g., Advanced Graph Algorithms]** - *[University/Platform]* | [Link](#)
-
----
-
-## 📈 GitHub Stats
-<p align="left">
-<a href="https://github.com/dhruvbhavsar0612">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvbhavsar0612&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbhavsar0612&layout=compact&theme=tokyonight"/>
-</a>
-</p>
+### 🎓 Verified Certificates
+* **Supervised Machine Learning: Regression and Classification** - *DeepLearning.AI & Stanford University* | [cite_start][View Certificate](https://coursera.org/verify/52U7CECRWXQF) [cite: 17, 26]
+    * Instructor: Andrew Ng. Focus on gradient descent and logistic regression architectures.
+* **Python for Data Science and Machine Learning Bootcamp** - *Udemy* | [cite_start][View Certificate](https://ude.my/UC-c99fdf81-e38c-417a-92fa-4eb95f696c7b) [cite: 5, 3]
+    * Comprehensive curriculum on Scikit-Learn, Pandas, and Neural Networks.
+* [cite_start]**GDSC Core Team Member (2021-2022)** - *Google Developer Student Clubs* [cite: 31]
+    * Recognized for technical leadership and community building at New L.J. Institute of Engineering and Technology.
 
 ---
 *Open to research collaborations and engineering opportunities.*
