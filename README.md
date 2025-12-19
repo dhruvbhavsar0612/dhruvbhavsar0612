@@ -33,7 +33,7 @@ Currently, I am an **AI Engineer at Wappnet Systems**, where I was awarded **Emp
 ## 📦 Open Source & Live Deployments
 
 ### 📞 Interactive Voice Demos
-* **AI Career Counselor:** [**+1 (682) 244-0245**](tel:+16822440245)
+* **AI Career Counselor:** [**+1 (775) 640-9474**](tel:+1 (775) 640-9474)
     * A real-time voice agent capable of autonomous research. Built with **Twilio & OpenAI** to demonstrate accessible, privacy-first personal assistance over standard telephony—no internet or apps required.
 
 ### 🦀 Rust & Tooling
