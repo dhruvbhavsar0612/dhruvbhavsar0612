@@ -111,7 +111,7 @@ Currently, I am an **AI Engineer at Wappnet Systems**, where I was awarded **Emp
 ### 🏆 Honors
 * **Employee of the Year (2024)** | *Wappnet Systems*
     * Awarded for rapid delivery of high-impact AI architectures across Healthcare & Logistics sectors.
-* **Smart Kart Innovation Project** | *_VOIS Innovation Marathon* | [View Certificate](https://drive.google.com/file/d/1S-e3hp2LSsuQLwl2r3kaDfJ0Qkv4H7Lo/view?usp=sharing)
+* **Smart Kart Innovation Project** | *_VOIS Innovation Marathon* | [View Certificate](https://drive.google.com/file/d/1U6FYv8IGA4nY-ipTtRjcNnhHvlQHHh_N/view?usp=sharing)
     * Developed an IoT-enabled Smart Kart prototype during the Vodafone Idea Foundation internship.
 
 ### 🎓 Verified Certificates
@@ -119,7 +119,7 @@ Currently, I am an **AI Engineer at Wappnet Systems**, where I was awarded **Emp
     * Instructor: Andrew Ng. Focus on gradient descent and logistic regression architectures.
 * **Python for Data Science and Machine Learning Bootcamp** - *Udemy* | [View Certificate](https://ude.my/UC-c99fdf81-e38c-417a-92fa-4eb95f696c7b)
     * Comprehensive curriculum on Scikit-Learn, Pandas, and Neural Networks.
-* **GDSC Core Team Member (2021-2022)** - *Google Developer Student Clubs* | [View Certificate](https://drive.google.com/file/d/1U6FYv8IGA4nY-ipTtRjcNnhHvlQHHh_N/view?usp=sharing)
+* **GDSC Core Team Member (2021-2022)** - *Google Developer Student Clubs* | [View Certificate](https://drive.google.com/file/d/1S-e3hp2LSsuQLwl2r3kaDfJ0Qkv4H7Lo/view?usp=sharing)
     * Recognized for technical leadership and community building at New L.J. Institute of Engineering and Technology.
 
 ---
