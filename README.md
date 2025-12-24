@@ -38,7 +38,7 @@ Currently, I am an **AI Engineer at Wappnet Systems**, where I was awarded **Emp
 
 ### 🦀 Rust & Tooling
 * **[rustlette](https://github.com/dhruvbhavsar0612/rustlette):** A high-performance Rust implementation of the Starlette ASGI framework. Focused on zero-cost abstractions for async web services.
-* **[fastapi-smith](https://github.com/dhruvbhavsar0612/fastsql-project-setup):** An opinionated project generator (CLI) for production-ready FastAPI architectures. Available on PyPI.
+* **[fastapi-smith](https://github.com/dhruvbhavsar0612/fastsql-project-setup):** An opinionated project generator (CLI) for production-ready FastAPI architectures. Available on PyPI. View docs [here](https://dhruvbhavsar0612.github.io/fastsql-project-setup/getting-started/installation/)
 
 ### 🧠 Computer Vision & AI
 * **[calorie-tracker-ai](https://github.com/dhruvbhavsar0612/calorie-tracker-ai):** "Snap & Track" nutritional analysis engine. Combines Computer Vision for object detection with Multimodal LLMs to estimate caloric content from single images in real-time.
