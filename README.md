@@ -115,6 +115,7 @@ Currently, I am an **AI Engineer at Wappnet Systems**, where I was awarded **Emp
     * Developed an IoT-enabled Smart Kart prototype during the Vodafone Idea Foundation internship.
 
 ### 🎓 Verified Certificates
+* **Hackerrank Rest API Intermediate** - *Hackerrank* | [View Certificate](https://www.hackerrank.com/certificates/82de3d56e0b7)
 * **Supervised Machine Learning: Regression and Classification** - *DeepLearning.AI & Stanford University* | [View Certificate](https://coursera.org/verify/52U7CECRWXQF)
     * Instructor: Andrew Ng. Focus on gradient descent and logistic regression architectures.
 * **Python for Data Science and Machine Learning Bootcamp** - *Udemy* | [View Certificate](https://ude.my/UC-c99fdf81-e38c-417a-92fa-4eb95f696c7b)
