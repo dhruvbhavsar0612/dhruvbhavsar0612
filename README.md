@@ -98,7 +98,7 @@ Currently, I am an **AI Engineer at Wappnet Systems**, where I was awarded **Emp
 * **Resources:** [📄 Read Research Report](https://docs.google.com/document/d/1b1HilH_0Ng_UYp0jWPxDoLoTEweULtL-/edit?usp=sharing&ouid=116380645606938325011&rtpof=true&sd=true)
 * **Stack:** PyTorch, OpenCV, SciPy, CUDA.
 
-### 3. Agentic Orchestration Platform (Osora.ai)
+### 3. Agentic Orchestration Platform
 * **The Challenge:** Preventing infinite reasoning loops in autonomous AI agents while managing costs.
 * **The Innovation:** Built a multi-agent state machine using **Redis** for active memory (<5 min window) and PostgreSQL for long-term recall. Developed custom **MCP Servers** for Slack/Jira integration.
 * **Result:** Reduced token consumption by **63%** via prompt optimization and separated "Reasoning" vs "IO" agents.
