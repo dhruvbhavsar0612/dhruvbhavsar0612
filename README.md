@@ -44,41 +44,15 @@ Currently, I am an **AI Engineer at Wappnet Systems**, where I was awarded **Emp
 * **[calorie-tracker-ai](https://github.com/dhruvbhavsar0612/calorie-tracker-ai):** "Snap & Track" nutritional analysis engine. Combines Computer Vision for object detection with Multimodal LLMs to estimate caloric content from single images in real-time.
 
 ### 🌐 Live AI Platforms
-* **[teleai.tech](https://teleai.tech):** Enterprise AI Telephony platform.
-* **[voice.teleai.tech](https://voice.teleai.tech):** Real-time **Voice-to-Text** conversational interface. Engineered on the HCI principle that humans speak faster than they type, but read faster than they listen. Features instant low-latency generation for rapid information retrieval.
+* **[teleai.live](https://teleai.live):** Enterprise AI Telephony platform.
+* **[voice.teleai.live](https://voice.teleai.live):** Real-time **Voice-to-Text** conversational interface. Engineered on the HCI principle that humans speak faster than they type, but read faster than they listen. Features instant low-latency generation for rapid information retrieval.
 
 ---
 
-#### TeleAI Chat AI Platform
-> An intelligent AI-powered chat assistant with seamless integrations
+#### TeleAI Chat AI Platform *(past project, no longer live)*
+> An AI-powered chat assistant with context-aware conversations and integrations for Gmail, Slack, Jira, Notion, and Outlook/Google Calendar, featuring cross-platform search and secure OAuth authentication.
 
-[![Live Demo](https://img.shields.io/badge/Live-chat.teleai.tech-blue?style=for-the-badge&logo=vercel)](https://chat.teleai.tech)
-[![API](https://img.shields.io/badge/API-chatapi.teleai.tech-green?style=for-the-badge&logo=fastapi)](https://chatapi.teleai.tech)
-
-#####  Features
-   - AI-powered chat with context awareness
-   - Gmail integration for email management
-   - Slack integration for team collaboration
-   - Jira & Notion task management
-   - Calendar integration (Outlook & Google)
-   - Intelligent search across all platforms
-   - Secure OAuth authentication
-
-##### Quick Access
-   - **Live Application:** [chat.teleai.tech](https://chat.teleai.tech)
-
-##### How to Use
-   1. Visit [chat.teleai.tech](https://chat.teleai.tech)
-   2. Sign up using your email or OAuth provider
-   3. Connect your integrations (Gmail, Slack, Jira, Notion, etc.)
-   4. Start chatting with your AI assistant!
-
-##### Tech Stack
-   - **Frontend:** React, Vite, TailwindCSS  
-   - **Backend:** FastAPI, Python, PostgreSQL  
-   - **AI:** OpenAI, LangChain  
-   - **Infrastructure:** AWS EC2, Nginx, PM2  
-   - **CI/CD:** GitHub Actions
+   - **Tech Stack:** React, Vite, TailwindCSS · FastAPI, Python, PostgreSQL · OpenAI, LangChain · AWS EC2, Nginx, PM2 · GitHub Actions
 
 ---
 
